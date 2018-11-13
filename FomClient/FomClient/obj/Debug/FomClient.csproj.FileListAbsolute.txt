@@ -1,0 +1,10 @@
+c:\users\mmota\documents\visual studio 2015\Projects\FomClient\FomClient\bin\Debug\FomClient.exe.config
+c:\users\mmota\documents\visual studio 2015\Projects\FomClient\FomClient\bin\Debug\FomClient.exe
+c:\users\mmota\documents\visual studio 2015\Projects\FomClient\FomClient\bin\Debug\FomClient.pdb
+c:\users\mmota\documents\visual studio 2015\Projects\FomClient\FomClient\obj\Debug\FomClient.csprojResolveAssemblyReference.cache
+c:\users\mmota\documents\visual studio 2015\Projects\FomClient\FomClient\obj\Debug\FomClient.Properties.Resources.resources
+c:\users\mmota\documents\visual studio 2015\Projects\FomClient\FomClient\obj\Debug\FomClient.csproj.GenerateResource.Cache
+c:\users\mmota\documents\visual studio 2015\Projects\FomClient\FomClient\obj\Debug\FomClient.exe
+c:\users\mmota\documents\visual studio 2015\Projects\FomClient\FomClient\obj\Debug\FomClient.pdb
+c:\users\mmota\documents\visual studio 2015\Projects\FomClient\FomClient\obj\Debug\FomClient.Cliente.resources
+C:\Users\mmota\Documents\Visual Studio 2015\Projects\FomClient\FomClient\obj\Debug\FomClient.ChildFormCliente.resources

@@ -1,0 +1,6 @@
+c:\users\mmota\documents\visual studio 2015\Projects\FomClient\Passagens\bin\Debug\Passagens.dll.config
+c:\users\mmota\documents\visual studio 2015\Projects\FomClient\Passagens\bin\Debug\Passagens.dll
+c:\users\mmota\documents\visual studio 2015\Projects\FomClient\Passagens\bin\Debug\Passagens.pdb
+c:\users\mmota\documents\visual studio 2015\Projects\FomClient\Passagens\obj\Debug\Passagens.csprojResolveAssemblyReference.cache
+c:\users\mmota\documents\visual studio 2015\Projects\FomClient\Passagens\obj\Debug\Passagens.dll
+c:\users\mmota\documents\visual studio 2015\Projects\FomClient\Passagens\obj\Debug\Passagens.pdb
